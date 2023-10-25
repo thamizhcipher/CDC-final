@@ -1,0 +1,94 @@
+body
+{
+    overflow-x: hidden;
+    background: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#home
+{
+    margin-top: 1.5rem;
+    color: white;
+    font-family: "Black Ops One", sans-serif;
+}
+
+.title
+{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 4rem;
+    color:white;
+}
+
+.story
+{
+    color: white;
+    padding: 5%;
+    font-size: 1.75rem;
+    text-align: left;
+    line-height: 1.9;
+    margin-left: 2rem;
+}
+
+.story-title
+{
+    font-size: 3rem;
+    text-align: center;
+    color: rgb(243, 243, 13);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 2px;
+}
+
+.btn-info
+{
+    margin: 1.3rem;
+    /* margin-bottom: 1rem; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn a
+{
+    text-decoration: none;
+    color: white;
+}
+
+.inp{
+    width: 30%;
+    margin: 1.5rem;
+    border: 5px solid white;
+    border-radius: .5rem;
+}
+.clue
+{
+    color: white;
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+.clue1
+{
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2%;
+}
+
+.hidden
+{
+    display: none;
+}
+#clue3
+{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+}
+.show
+{
+    display: block;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.25rem;
+    text-align: center;
+    margin: 1.25rem;
+}
